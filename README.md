@@ -1,4 +1,4 @@
-# Hi, I'm Bahadir Talha Yalaniz 👋
+# Hi, I'm Bahadir Talha Yalaniz 
 
 ### ICT Student | IT Support • System Administration • Cybersecurity
 
@@ -15,7 +15,7 @@ I enjoy troubleshooting technical problems and learning how IT systems work. My 
 - Basic ticketing-system knowledge
 - Mobile device setup and troubleshooting
 
-## 📚 Currently Learning
+##  Currently Learning
 
 - PowerShell
 - Windows administration
@@ -34,7 +34,7 @@ I'm building practical projects to document what I learn and improve my technica
 - **Windows / Active Directory Home Lab** — learning users, groups, permissions and administration
 - **Cybersecurity Labs** — notes from legal training environments without publishing flags or sensitive solutions
 
-## 💼 What I'm Looking For
+##  What I'm Looking For
 
 I'm looking for a company where I can combine school with hands-on experience through a **BBL ICT position at MBO level 3 or 4**.
 
@@ -42,7 +42,7 @@ I'm looking for a company where I can combine school with hands-on experience th
 **Location:** Netherlands  
 **Transport:** Own transportation
 
-## 🎯 Goals
+##  Goals
 
 `IT Support` → `System Administration` → `Cybersecurity`
 
