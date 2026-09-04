@@ -6,7 +6,7 @@ I'm based in the Netherlands and currently looking for a **BBL ICT learning posi
 
 I enjoy troubleshooting technical problems and learning how IT systems work. My long-term goal is to continue developing toward **system administration and cybersecurity**.
 
-## 🔧 IT Skills
+##  IT Skills
 
 - Windows installation, configuration and troubleshooting
 - PC hardware: SSD/HDD, RAM and basic diagnostics
@@ -25,7 +25,7 @@ I enjoy troubleshooting technical problems and learning how IT systems work. My 
 - Meta Ads & digital marketing fundamentals
 - AI tools and digital automation
 
-## 🧪 Projects I'm Building
+##  Projects I'm Building
 
 I'm building practical projects to document what I learn and improve my technical skills:
 
